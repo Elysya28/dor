@@ -1,11 +1,11 @@
 [
     {
-        "family_name": "Unlimited Turbo",
-        "family_code": "08a3b1e6-8e78-4e45-a540-b40f06871cfe",
+        "family_name": "PRIO Booster",
+        "family_code": "0d9d072c-3dab-4f72-88cd-31c5b8dc8c6b",
         "is_enterprise": false,
-        "variant_name": "For Xtra Combo",
-        "option_name": "TikTok",
-        "order": 6
+        "variant_name": "PRIO Booster",
+        "option_name": "Bonus Ultra 5G+",
+        "order": 1
     },
     {
         "family_name": "Newcomer Promo",
